@@ -1,0 +1,1 @@
+This template was redesign form original klean-v1.0.2 Klean theme by ThemeWagon team.
